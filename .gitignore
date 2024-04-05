@@ -1,0 +1,5 @@
+# Aqui se añadiran los archivos que
+# No deseamos que sean enviadas a GitHub
+
+# Indicamos que ignore el arcvhido de Variables de Entorno
+.env
